@@ -1,0 +1,7 @@
+{
+    "name": "Letsqube",
+    "background_color": "#eeeff1",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "/"
+}
